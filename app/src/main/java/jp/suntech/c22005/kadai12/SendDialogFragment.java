@@ -32,7 +32,6 @@ public class SendDialogFragment extends DialogFragment {
                 .setPositiveButton("送信", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
-                        //ここでSnackbarを表示
                         MainActivity activity = (MainActivity) getActivity();
                         if (activity != null) {
                             activity.showSnackbar("送信しました");

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ConstraintLayout サンプル</string>
+    <string name="app_name">課題12</string>
     <string name="tv_title">必要な情報を入力したください</string>>
     <string name="tv_name">名前</string>
     <string name="tv_mail">メールアドレス</string>

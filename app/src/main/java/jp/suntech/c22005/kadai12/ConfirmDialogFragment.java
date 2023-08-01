@@ -21,7 +21,6 @@ public class ConfirmDialogFragment extends DialogFragment {
         return fragment;
     }
 
-    @NonNull
     @Override
     public Dialog onCreateDialog(@Nullable Bundle savedInstanceState) {
         Bundle args = getArguments();
